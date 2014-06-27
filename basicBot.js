@@ -86,7 +86,7 @@ var retrieveFromStorage = function(){
 };
 
 var esBot = {
-        version: "http://s26.postimg.org/57j7bjivd/tumblr_mtoqg6_T9_WE1r2x4nco1_500.gif",        
+        version: " http://s26.postimg.org/57j7bjivd/tumblr_mtoqg6_T9_WE1r2x4nco1_500.gif",        
         status: false,
         name: "Lain Iwakura",
         creator: "EuclideanSpace",
