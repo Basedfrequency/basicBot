@@ -86,9 +86,9 @@ var retrieveFromStorage = function(){
 };
 
 var esBot = {
-        version: "1.1.5",        
+        version: "http://s26.postimg.org/57j7bjivd/tumblr_mtoqg6_T9_WE1r2x4nco1_500.gif",        
         status: false,
-        name: "basicBot",
+        name: "Lain Iwakura",
         creator: "EuclideanSpace",
         loggedInID: null,
         scriptLink: "https://raw.githubusercontent.com/Yemasthui/basicBot/master/basicBot.js",
@@ -104,7 +104,7 @@ var esBot = {
             cycleGuard: true,
             maximumCycletime: 10,                
             timeGuard: true,
-            maximumSongLength: 10,                
+            maximumSongLength: 12,                
             autodisable: true,                
             commandCooldown: 30,
             usercommandsEnabled: true,                
